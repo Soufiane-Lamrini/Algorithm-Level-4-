@@ -1,0 +1,3 @@
+﻿  Problem 5.cpp
+C:\Users\lmrin\Desktop\Courses 8\Problem 5\Problem 5.cpp(27,1): warning C4715: 'CalNombreJour' : les chemins de contrôle ne retournent pas tous une valeur
+  Problem 5.vcxproj -> C:\Users\lmrin\Desktop\Courses 8\Problem 5\x64\Debug\Problem 5.exe

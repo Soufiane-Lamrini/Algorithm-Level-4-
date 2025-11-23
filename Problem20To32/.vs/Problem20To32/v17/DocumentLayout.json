@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem20To32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E3B17D-551C-498D-A334-E2FADD8DAA6A}|Problem20To32.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem20To32\\Problem20To32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91E3B17D-551C-498D-A334-E2FADD8DAA6A}|Problem20To32.vcxproj|solutionrelative:Problem20To32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem20To32.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem20To32\\Problem20To32.cpp",
+              "RelativeDocumentMoniker": "Problem20To32.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem20To32\\Problem20To32.cpp",
+              "RelativeToolTip": "Problem20To32.cpp",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAcwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T11:34:27.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

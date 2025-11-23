@@ -1,0 +1,5 @@
+﻿  Problem 18.cpp
+C:\Users\lmrin\Desktop\Courses 8\Problem 18\Problem 18.cpp(5,33): warning C4081: attendu 'newline' ; rencontré '?'
+C:\Users\lmrin\Desktop\Courses 8\Problem 18\Problem 18.cpp(35,50): warning C4305: 'argument' : troncation de 'int' à 'short'
+C:\Users\lmrin\Desktop\Courses 8\Problem 18\Problem 18.cpp(35,50): warning C4309: 'argument' : troncation de valeur de constante
+  Problem 18.vcxproj -> C:\Users\lmrin\Desktop\Courses 8\Problem 18\x64\Debug\Problem 18.exe

@@ -1,0 +1,5 @@
+﻿  Problem 65.cpp
+C:\Users\lmrin\Desktop\Courses 8\Problem 65\Problem 65.cpp(30,33): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\lmrin\Desktop\Courses 8\Problem 65\Problem 65.cpp(64,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\lmrin\Desktop\Courses 8\Problem 65\Problem 65.cpp(68,22): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  Problem 65.vcxproj -> C:\Users\lmrin\Desktop\Courses 8\Problem 65\x64\Debug\Problem 65.exe

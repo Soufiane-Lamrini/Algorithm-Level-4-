@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E8FF89-51D5-44DB-90D0-E80DB5FE1BCE}|Problem 7.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem 7\\Problem 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7E8FF89-51D5-44DB-90D0-E80DB5FE1BCE}|Problem 7.vcxproj|solutionrelative:Problem 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 7.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem 7\\Problem 7.cpp",
+              "RelativeDocumentMoniker": "Problem 7.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 8\\Problem 7\\Problem 7.cpp",
+              "RelativeToolTip": "Problem 7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T12:04:08.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

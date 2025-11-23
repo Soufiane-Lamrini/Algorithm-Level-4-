@@ -1,0 +1,4 @@
+﻿  Problem 33 to 46.cpp
+C:\Users\lmrin\Desktop\Courses 8\Problem 33 to 46\Problem 33 to 46.cpp(34,50): warning C4305: 'argument' : troncation de 'int' à 'short'
+C:\Users\lmrin\Desktop\Courses 8\Problem 33 to 46\Problem 33 to 46.cpp(34,50): warning C4309: 'argument' : troncation de valeur de constante
+  Problem 33 to 46.vcxproj -> C:\Users\lmrin\Desktop\Courses 8\Problem 33 to 46\x64\Debug\Problem 33 to 46.exe
